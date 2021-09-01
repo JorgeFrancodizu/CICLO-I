@@ -1,0 +1,20 @@
+# CICLO-I
+Python
+
+Reto 3: Grupo P82
+Número máximo de ficheros: 1
+Tipo de trabajo: Individual
+Purble Place es un lugar donde se hacen las mejoras Tortas, sin embargo,
+necesitan un algoritmo para poder procesar el inventario actual de la fábrica.
+Para ello el presidente de la compañía propone lo siguiente. Dada una lista 
+con los nombres de las tortas (Representadas en letras del abecedario), 
+el algoritmo debería imprimir una fila con las letras de las Tortas encontradas,
+y en otra fila la cantidad de veces que aparecen estas tortas separadas por un espacio.
+
+Entrada: D D D D T T T D A A T T T A A A U Y U U U
+
+Salida
+
+D T D A T A U Y U
+
+4 3 1 2 3 3 1 1 3
