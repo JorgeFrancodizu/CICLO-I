@@ -1,0 +1,23 @@
+# CICLO-I
+Python
+
+Reto 2: Grupo P82
+Número máximo de ficheros: 1
+Tipo de trabajo: Individual
+¡Estamos perdidas!
+
+Es el año 2430. Aphelios y Evelynn deciden ir a la dimensión c-137 a pasar vacaciones, sin embargo, 
+se encuentran perdidos, Aphelios y Evelynn proponen un camino diferente cada uno. Así que decidieron 
+guiarse por las señales de tránsito que iban encontrando en el mapa (representadas en letras). 
+Para ello decidieron usar el siguiente sistema.
+
+
+Si la señal de tránsito que iban encontrando estaba en el camino que ellos proponían
+debían anotarse un punto, luego, comparaban sus puntuaciones, 
+si Aphelios llevaba más puntos que Evelynn escribía una “J”.
+Si Evelynn llevaba más puntos que Aphelios anotaba una “K”.
+Pero si ambos llevaban la misma cantidad de puntos anotaban una “L”.
+
+Realizar un programa que reciba el camino que propone Aphelios y la ruta que propone Evelynn 
+(Como cadena de caracteres) y por último una cadena de caracteres con las señales de tránsito 
+encontradas por el mapa (representadas en letras). Muestre por consola lo que escribieron Aphelios y Evelynn.
