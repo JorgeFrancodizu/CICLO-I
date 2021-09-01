@@ -21,3 +21,16 @@ Pero si ambos llevaban la misma cantidad de puntos anotaban una “L”.
 Realizar un programa que reciba el camino que propone Aphelios y la ruta que propone Evelynn 
 (Como cadena de caracteres) y por último una cadena de caracteres con las señales de tránsito 
 encontradas por el mapa (representadas en letras). Muestre por consola lo que escribieron Aphelios y Evelynn.
+
+Ejemplo
+
+Entrada
+HDS
+
+BSD
+
+Salida
+
+JASBSADHJSAABAJJAAJBA
+
+LLLKKKKLLLLLKKKKKKKKK
